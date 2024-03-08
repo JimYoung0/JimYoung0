@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JimYoung0
-- 👀 I’m interested in Mathematical Biological/Applied Mathematics
+- 👀 I’m interested in Mathematical Biology (cancer cells study, chemical reactions) and Dynamics system (PDEs modellings)
 - 🌱 I’m currently studying Mahtematical Biology (MSc) in University of St.Andrews
 - 💞️ I’m looking to collaborate on Ph.D. program in MatheBio etc.
 - 📫 How to reach me: plz leave a message and I can send you my personal email for furthermore discussion
